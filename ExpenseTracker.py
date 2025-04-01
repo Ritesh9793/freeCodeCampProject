@@ -42,3 +42,5 @@ def main():
             print_expenses(expenses_from_category)
         elif choice == '5':
             print('Exiting the program.')
+            break
+main()
